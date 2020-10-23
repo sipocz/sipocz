@@ -8,7 +8,7 @@
 [<img align="left" alt="sipoczlaszlo | Codersrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
+[<img align="left" alt="sipoczlaszlo | Mailto" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
 
 
 <br />
@@ -29,5 +29,5 @@
 [linkedin]: https://www.linkedin.com/in/36204746473
 [codersrank]: https://profile.codersrank.io/user/sipocz
 [youtube]: https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA
-[mailto]: mailto: sipoczlaszlo@gmail.com
+[mailto]: mailto:sipoczlaszlo@gmail.com
 

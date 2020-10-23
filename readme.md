@@ -12,13 +12,22 @@
 
 
 <br />
+### Favorit Programming Language:
+
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="sipoczlaszlo | Codersrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
+[<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
+
+
+<br />
 <br />
 <br />
 
 
 ---
 
-➡️ [Videos...](https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -33,4 +42,4 @@
 [youtube]: https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA
 [mailto]: mailto:sipoczlaszlo@gmail.com
 [hackerrank]: https://www.hackerrank.com/sipoczlaszlo
-
+[python]: https://python.org

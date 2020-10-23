@@ -1,7 +1,3 @@
-
-
-
-
 ### Connect with me:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,6 +11,8 @@
 ### Favorit Programming Language:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][python]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][python]
 
 <br /><br /><br />
 

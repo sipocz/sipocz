@@ -10,15 +10,11 @@
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
 
-
-<br />
+---
+<br /><br /><br />
 ### Favorit Programming Language:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img align="left" alt="sipoczlaszlo | Codersrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
-[<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
 
 
 <br />

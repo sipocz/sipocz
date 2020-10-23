@@ -12,7 +12,7 @@
 
 <br />
 
-### Languages and Tools:
+
 
 
 <br />
@@ -30,24 +30,11 @@
 
 ---
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>

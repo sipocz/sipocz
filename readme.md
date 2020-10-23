@@ -4,8 +4,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sipoczlaszlo | Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
+[<img align="left" alt="sipoczlaszlo | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
+
 
 <br />
 
@@ -25,4 +27,5 @@
 [linkedin]: https://www.linkedin.com/in/36204746473
 [codersrank]: https://profile.codersrank.io/user/sipocz
 [youtube]: https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA
+[hackerrank]: https://www.hackerrank.com/sipoczlaszlo
 

@@ -11,9 +11,9 @@
 ### Favorit Programming Language:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][python]
-[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][python]
-[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][python]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][c]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][csharp]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
 <br /><br /><br />
 ---
 <details>
@@ -30,3 +30,6 @@
 [mailto]: mailto:sipoczlaszlo@gmail.com
 [hackerrank]: https://www.hackerrank.com/sipoczlaszlo
 [python]: https://python.org
+[java]: http://https://java.com/en
+[csharp]: https://www.microsoft.com/en-us/download/details.aspx?id=7029
+[c]: http://www.codeblocks.org/downloads

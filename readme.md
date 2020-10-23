@@ -14,7 +14,7 @@
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][python]
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][python]
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][python]
-[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vbscript.svg" />][python]
+[<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vba.svg" />][python]
 
 <br /><br /><br />
 

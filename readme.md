@@ -8,6 +8,7 @@
 [<img align="left" alt="sipoczlaszlo | Codersrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sipoczlaszlo | Hackerrank" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][youtube]
 
 
 <br />

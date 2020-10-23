@@ -30,6 +30,6 @@
 [mailto]: mailto:sipoczlaszlo@gmail.com
 [hackerrank]: https://www.hackerrank.com/sipoczlaszlo
 [python]: https://python.org
-[java]: http://https://java.com/en
+[java]: http://https://java.com
 [csharp]: https://www.microsoft.com/en-us/download/details.aspx?id=7029
 [c]: http://www.codeblocks.org/downloads

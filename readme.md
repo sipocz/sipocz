@@ -42,7 +42,7 @@
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/sipoczlaszlo)
+➡️ [more videos...](https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA)
 
 ---
 
@@ -75,4 +75,5 @@
 
 [linkedin]: https://www.linkedin.com/in/36204746473
 [codersrank]: https://profile.codersrank.io/user/sipocz
+[youtube]: https://youtube.com/channel/UCx7kBxZKjsCVyj3oQgtpMFA
 

@@ -8,7 +8,7 @@
 <br />
 ---
 <br /><br /><br />
-### Favorit Programming Language:
+### Favorit Programming Languages:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][c]

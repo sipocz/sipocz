@@ -6,7 +6,7 @@
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
 [<img align="left" alt="sipoczlaszlo | SKills" width="80px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sipocz" />][mailto]
-https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME
+
 <br />
 ---
 <br /><br /><br />

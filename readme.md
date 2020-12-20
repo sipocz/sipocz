@@ -7,7 +7,7 @@
 [<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
 
 <br />
----
+
 <br /><br /><br />
 ### Favorit Programming Languages:
 

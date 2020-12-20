@@ -5,7 +5,8 @@
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="sipoczlaszlo | Hackerrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="sipoczlaszlo | Mailto" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />][mailto]
-[<img align="left" alt="sipoczlaszlo | SKills" width="80px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sipocz" />][mailto]
+<br /><br /><br />
+[<img align="center" alt="sipoczlaszlo | SKills" width="380px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sipocz" />][mailto]
 
 <br />
 ---
@@ -16,6 +17,7 @@
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][c]
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][csharp]
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+
 <br /><br /><br />
 ---
 <details>

@@ -1,4 +1,5 @@
-### Connect with me:
+$\color{red}{\text{ciao}}$
+## Connect with me:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipoczlaszlo | Codersrank" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/codersrank.svg" />][codersrank]

@@ -1,4 +1,6 @@
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,JavaScript)](https://github.com/sipocz)
+
 ## Connect with me:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

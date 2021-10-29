@@ -1,5 +1,5 @@
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Tensorflow,Jupyter)](https://github.com/sipocz)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Tensorflow,jupyter)](https://github.com/sipocz)
 
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20DevOps&badges=Python,Tensorflow,Pandas,Scikit-Learn,Linux,GitHub/Git)](https://github.com/sipocz))

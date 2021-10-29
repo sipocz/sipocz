@@ -1,5 +1,5 @@
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,JavaScript)](https://github.com/sipocz)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Tensorflow,Pandas)](https://github.com/sipocz)
 
 ## Connect with me:
 

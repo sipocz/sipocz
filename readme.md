@@ -1,6 +1,9 @@
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Tensorflow,Scikit-Learn)](https://github.com/sipocz)
 
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework%20and%20DevOps&badges=Python,Tensorflow,Pandas,Scikit-Learn,Linux,GitHub/Git)](https://github.com/sipocz))
+
 ## Connect with me:
 
 [<img align="left" alt="sipoczlaszlo | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -26,7 +26,6 @@
 ---
 
 <br /><br /><br />
-[<img align="left" alt="sipoczlaszlo | SKills" width="380px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sipocz" />][mailto]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
